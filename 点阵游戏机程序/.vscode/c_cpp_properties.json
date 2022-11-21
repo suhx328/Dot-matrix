@@ -1,0 +1,38 @@
+{
+    "configurations": [
+        {
+            "name": "Target 1",
+            "includePath": [
+                "D:\\Program Files (x86)\\MDK\\C51\\INC",
+                "d:\\.1a\\Project\\硬件部招新作品\\点阵游戏机\\点阵游戏机程序",
+                "d:\\.1a\\Project\\硬件部招新作品\\点阵游戏机\\点阵游戏机程序\\src"
+            ],
+            "defines": [
+                "__C51__",
+                "__VSCODE_C51__",
+                "reentrant=",
+                "compact=",
+                "small=",
+                "large=",
+                "data=",
+                "idata=",
+                "pdata=",
+                "bdata=",
+                "xdata=",
+                "code=",
+                "bit=char",
+                "sbit=char",
+                "sfr=char",
+                "sfr16=int",
+                "sfr32=int",
+                "interrupt=",
+                "using=",
+                "_at_=",
+                "_priority_=",
+                "_task_="
+            ],
+            "intelliSenseMode": "${default}"
+        }
+    ],
+    "version": 4
+}
